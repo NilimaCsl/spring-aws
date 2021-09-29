@@ -1,2 +1,2 @@
-# spring-aws
+# spring-aws-main
 AWS demo
